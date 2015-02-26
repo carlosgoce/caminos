@@ -1,0 +1,7 @@
+{
+  "name": "caminos",
+  "private": true,
+  "dependencies": {
+    "angularjs": "~1.3.14"
+  }
+}
