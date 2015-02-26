@@ -1,0 +1,11 @@
+{
+  "name": "caminos",
+  "main": "index.html",
+  "dependencies": {
+    "nw": "^0.12.0-alpha3"
+  },
+  "scripts": {
+    "start": "nw"
+  }
+}
+
